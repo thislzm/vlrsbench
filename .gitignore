@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+__pycache__/
+
+images.zip
+out/
+output/
+result_UCR/
+rsult_mir/
